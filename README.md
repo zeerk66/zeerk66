@@ -18,9 +18,7 @@
 </details> 
       fhggggggggggggggggggggggggggggggggg <br>
           gggggggggggggggggggggggggg <br>
-          gffffffffffffffffffffff </br>
-          <p align="center">
-  <img src="file/file/photo_5435949934445271729_x.jpg_x-removebg-preview.png" width="50%">
-          </p>
+          gffffffffffffffffffffff <br>
+   <img src="photo_5435949934445271729_x.jpg"></br>
       </th>
       </table>
