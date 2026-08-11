@@ -21,7 +21,7 @@
           gffffffffffffffffffffff </br>
 
           <p align="center">
-  <img src="file/c432c3bf-22d5-42c4-8c42-c34f62f8a61b.jfif_x-removebg-preview.png" width="50%">
+  <img src="file/file/photo_5435949934445271729_x.jpg_x-removebg-preview.png" width="50%">
 
 </p>
       </th>
